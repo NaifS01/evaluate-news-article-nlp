@@ -1,0 +1,14 @@
+form {
+	padding: 40px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	border-radius: 50px;
+}
+input {
+	padding: 5px 20px;
+	line-height: 16px;
+	margin: 10px 0;
+	background-color: rgb(252, 252, 252);
+	color: rgb(16, 10, 1);
+}
